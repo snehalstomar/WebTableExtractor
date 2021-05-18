@@ -11,7 +11,7 @@ A tool to extract all tables from a webpage and store them as .csv files.
 1. Clone/Download this repository. 
 2. Make sure that the PWD contains "url_table_reader.py".
 3. run:
-$ python3 url_table_reader.py --url "<<I>The URL from which tables have to be extracted</I>>		"
+$ python3 url_table_reader.py --url "<<I>The URL from which tables have to be extracted</I>>"
 
 ## Output:
 + A directory(having a substring of the input URL as its name), containing the .csv files corresponding to each table on the given webpage(URL).  
